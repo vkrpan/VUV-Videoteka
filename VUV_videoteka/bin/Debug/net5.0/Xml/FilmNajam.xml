@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<filmNajam>
+  <film sifraNajam="000003" datIznajm="18.5.2021. 16:17:50" datVracanja="24.5.2021. 11:12:17" idOp="11" idFilm="03" sifraGl="000001" />
+  <film sifraNajam="000011" datIznajm="18.6.2021. 00:02:17" datVracanja="18.6.2021. 04:02:07" idOp="11" idFilm="12" sifraGl="000003" />
+  <film sifraNajam="000001" datIznajm="2.5.2021. 15:14:12" datVracanja="2.5.2021. 15:16:14" idOp="11" idFilm="01" sifraGl="000001" />
+  <film sifraNajam="000002" datIznajm="15.5.2021. 14:08:05" datVracanja="15.5.2021. 14:09:06" idOp="11" idFilm="02" sifraGl="000001" />
+  <film sifraNajam="000006" datIznajm="17.6.2021. 23:08:11" datVracanja="18.6.2021. 23:09:12" idOp="11" idFilm="18" sifraGl="000001" />
+  <film sifraNajam="000004" datIznajm="12.6.2021. 21:19:35" datVracanja="13.6.2021. 21:20:36" idOp="11" idFilm="08" sifraGl="000002" />
+  <film sifraNajam="000005" datIznajm="18.6.2021. 0:45:40" datVracanja="18.6.2021. 0:51:25" idOp="11" idFilm="03" sifraGl="000001" />
+  <film sifraNajam="000007" datIznajm="18.6.2021. 17:28:26" datVracanja="" idOp="11" idFilm="10" sifraGl="000001" />
+  <film sifraNajam="000010" datIznajm="19.6.2021. 20:01:02" datVracanja="21.6.2021. 22:14:05" idOp="11" idFilm="18" sifraGl="000002" />
+  <film sifraNajam="000012" datIznajm="24.6.2021. 12:02:41" datVracanja="7.7.2021. 18:00:00" idOp="11" idFilm="02" sifraGl="000003" />
+  <film sifraNajam="000009" datIznajm="19.6.2021. 16:45:22" datVracanja="7.7.2021. 00:00:00" idOp="11" idFilm="07" sifraGl="000001" />
+  <film sifraNajam="000013" datIznajm="7.7.2021. 18:11:40" datVracanja="" idOp="11" idFilm="02" sifraGl="000001" />
+  <film sifraNajam="000014" datIznajm="7.7.2021. 19:59:02" datVracanja="" idOp="11" idFilm="03" sifraGl="000001" />
+  <film sifraNajam="000015" datIznajm="7.7.2021. 20:00:45" datVracanja="10.7.2021. 10:00:00" idOp="11" idFilm="07" sifraGl="000004" />
+  <film sifraNajam="000016" datIznajm="7.7.2021. 20:15:01" datVracanja="9.7.2021. 00:00:00" idOp="11" idFilm="18" sifraGl="000002" />
+  <film sifraNajam="000017" datIznajm="8.7.2021. 9:18:15" datVracanja="" idOp="11" idFilm="13" sifraGl="000005" />
+  <film sifraNajam="000008" datIznajm="18.6.2021. 17:28:37" datVracanja="10.7.2021. 00:00:00" idOp="11" idFilm="04" sifraGl="000001" />
+</filmNajam>

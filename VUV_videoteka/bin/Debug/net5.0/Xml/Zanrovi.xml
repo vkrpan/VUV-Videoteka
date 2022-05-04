@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Zanr>
+  <zanr idZanr="255" value="Drama" />
+  <zanr idZanr="410" value="Kriminalisticki" />
+  <zanr idZanr="225" value="Akcijski" />
+  <zanr idZanr="883" value="Biografski" />
+  <zanr idZanr="436" value="Povijesni" />
+  <zanr idZanr="991" value="Avanturisticki" />
+  <zanr idZanr="162" value="Western" />
+  <zanr idZanr="874" value="Ljubavni" />
+  <zanr idZanr="420" value="Znanstveno-fantasticni" />
+  <zanr idZanr="710" value="Fantasticni" />
+  <zanr idZanr="111" value="Tajanstveni" />
+  <zanr idZanr="655" value="Triler" />
+</Zanr>

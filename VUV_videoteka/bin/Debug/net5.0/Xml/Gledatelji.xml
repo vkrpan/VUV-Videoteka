@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gledatelji>
+  <gledatelj ime="Matija" prezime="Peric" OIB="36741228990" adresa="Matije Gupca 82, Virovitica" sifraGled="000001" deleted="false" />
+  <gledatelj ime="Luka" prezime="Martinovic" OIB="75315900228" adresa="Zagrebacka 16, Virovitica" sifraGled="000002" deleted="false" />
+  <gledatelj ime="Borna" prezime="Pejakic" OIB="78521473691" adresa="Tina Ujevica 5, Virovitica" sifraGled="000003" deleted="false" />
+  <gledatelj ime="Mario" prezime="Boskovac" OIB="65489521806" adresa="Ulica Slobode 10, Virovitica" sifraGled="000004" deleted="false" />
+  <gledatelj ime="Ivan" prezime="Marijanovic" OIB="88888888888" adresa="Adresa" sifraGled="000005" deleted="false" />
+</Gledatelji>

@@ -1,0 +1,14 @@
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.csprojAssemblyReference.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.AssemblyInfoInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.AssemblyInfo.cs
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.csproj.CoreCompileInputs.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\VUV_videoteka.exe
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\VUV_videoteka.deps.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\VUV_videoteka.runtimeconfig.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\VUV_videoteka.runtimeconfig.dev.json
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\VUV_videoteka.dll
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\VUV_videoteka.pdb
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.dll
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.pdb
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\obj\Debug\netcoreapp3.1\VUV_videoteka.genruntimeconfig.cache
+C:\Users\VK\Desktop\faks\2. semestar\OOP\KV\VUV_videoteka\VUV_videoteka\bin\Debug\netcoreapp3.1\baza_podataka.xml

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Videoteka>
+  <Filmovi>
+    <film id="01" ime="Iskupljenje u Shawshanku" godina="1994" trajanje="144" posuden="false" cijenaNajma="14">
+      <redatelj idRed="01"/>
+      <glumac idGl="01"/>
+      <glumac idGl="02"/>
+      <glumac idGl="03"/>
+      <glumac idGl="04"/>
+      <glumac idGl="05"/>
+      <zanr idZanr="255"/>
+    </film>
+    <film id="02" ime="Kum" godina="1972" trajanje="175" posuden="false" cijenaNajma="12.99">
+      <redatelj idRed="02"/>
+      <glumac idGl="06"/>
+      <glumac idGl="07"/>
+      <glumac idGl="08"/>
+      <glumac idGl ="09"/>
+      <glumac idGl ="10"/>
+      <zanr idZanr="255"/>
+      <zanr idZanr="410"/>
+    </film>
+    <film id="03" ime="Kum 2" godina="1974" trajanje="202" posuden="false" cijenaNajma="14.99">
+      <redatelj idRed="02"/>
+      <glumac idGl="07"/>
+      <glumac idGl="10"/>
+      <glumac idGl="11"/>
+      <glumac idGl ="12"/>
+      <glumac idGl ="13"/>
+      <zanr idZanr="255"/>
+      <zanr idZanr="410"/>
+    </film>
+    <film id="04" ime="Vitez tame" godina="2008" trajanje="152" posuden="false" cijenaNajma="12.50">
+      <redatelj idRed="03"/>
+      <glumac idGl="14"/>
+      <glumac idGl="15"/>
+      <glumac idGl="16"/>
+      <glumac idGl="17"/>
+      <glumac idGl="18"/>
+      <zanr idZanr="255"/>
+      <zanr idZanr="410"/>
+      <zanr idZanr="225"/>
+    </film>
+    <film id="05" ime="12 gnjevnih ljudi" godina="1957" trajanje="96" posuden="false" cijenaNajma="9.99">
+      <redatelj idRed="04"/>
+      <glumac idGl="19"/>
+      <glumac idGl="20"/>
+      <glumac idGl="21"/>
+      <glumac idGl="22"/>
+      <glumac idGl="23"/>
+      <zanr idZanr ="255"/>
+      <zanr idZanr="410"/>
+    </film>
+    <film id="06" ime="Schindlerova lista" godina="1993" trajanje="195" posuden="false" cijenaNajma="12.49">
+      <redatelj idRed="05"/>
+      <glumac idGl="24"/>
+      <glumac idGl="25"/>
+      <glumac idGl="26"/>
+      <glumac idGl="27"/>
+      <glumac idGl="28"/>
+      <zanr idZanr="883"/>
+      <zanr idZanr="255"/>
+      <zanr idZanr="436"/>
+    </film>
+  </Filmovi>
+  <filmNajam>
+    <film id="" datumIznajm="" datVracanja=""/>
+  </filmNajam>
+  <Glumci>
+    <glumac idGl="01" ime="Tim" prezime="Robbins" />
+    <glumac idGl="02" ime="Morgan" prezime="Freeman"/>
+    <glumac idGl="03" ime="Bob" prezime="Gunton"/>
+    <glumac idGl="04" ime="William" prezime="Sadler"/>
+    <glumac idGl="05" ime="Clancy" prezime="Brown"/>
+    <glumac idGl="06" ime="Marlon" prezime="Brando"/>
+    <glumac idGl="07" ime="Alfredo James" prezime="Pacino"/>
+    <glumac idGl="08" ime="James" prezime="Caan"/>
+    <glumac idGl="09" ime="Richard" prezime="Castellano"/>
+    <glumac idGl="10" ime="Robert" prezime="Duvall"/>
+    <glumac idGl="11" ime="Diane" prezime="Keaton"/>
+    <glumac idGl="12" ime="Robert" prezime="De Niro"/>
+    <glumac idGl="13" ime="John" prezime="Cazale"/>
+    <glumac idGl="14" ime="Christian" prezime="Bale"/>
+    <glumac idGl="15" ime="Heath" prezime="Ledger"/>
+    <glumac idGl="16" ime="Aaron" prezime="Eckhart"/>
+    <glumac idGl="17" ime="Michael" prezime="Caine"/>
+    <glumac idGl="18" ime="Maggie" prezime="Gyllenhaal"/>
+    <glumac idGl="19" ime="Martin" prezime="Balsam"/>
+    <glumac idGl="20" ime="Jonh" prezime="Fiedler"/>
+    <glumac idGl="21" ime="Lee" prezime="Cobb"/>
+    <glumac idGl="22" ime="Everett Eugene" prezime="Grunz"/>
+    <glumac idGl="23" ime="Jack" prezime="Klugman"/>
+    <glumac idGl="24" ime="Liam" prezime="Neeson"/>
+    <glumac idGl="25" ime="Ben" prezime="Kingsley"/>
+    <glumac idGl="26" ime="Ralph" prezime="Fiennes"/>
+    <glumac idGl="27" ime="Caroline" prezime="Goodall"/>
+    <glumac idGl="28" ime="Jonathan" prezime="Sagall"/>
+  </Glumci>
+  <Redatelji>
+    <redatelj idRed="01" ime="Frank" prezime="Darabont"/>
+    <redatelj idRed="02" ime="Francis Ford" prezime="Coppola"/>
+    <redatelj idRed="03" ime="Christopher" prezime="Nolan"/>
+    <redatelj idRed="04" ime="Sidney" prezime="Lumet"/>
+    <redatelj idRed="05" ime="Steven" prezime="Spielberg"/>
+  </Redatelji>
+  <Gledatelji>
+    <gledatelj ime="Matija" prezime="Peric" OIB="36741228990" adresa="Matije Gupca 82, Virovitica" sifra=""/>
+    <gledatelj ime="Luka" prezime="Martinovic" OIB="75315900228" adresa="Zagrebacka 16, Virovitica" sifra=""/>
+    <gledatelj ime="Borna" prezime="Pejakic" OIB="25889430761" adresa="Tina Ujevica 5, Virovitica" sifra=""/>
+  </Gledatelji>
+  <Operateri>
+    <operater idOp="11" ime="Filip" prezime="Kuba"/>
+    <operater idOp="98" ime="Karla" prezime="Lazic"/>
+    <operater idOp="44" ime="Mirela" prezime="Holi"/>
+  </Operateri>  
+  <Zanr>
+    <zanr idZanr="255" value="Drama"/>
+    <zanr idZanr="410" value="Kriminalistički"/>
+    <zanr idZanr="225" value="Akcijski"/>
+    <zanr idZanr="883" value="Biografski"/>
+    <zanr idZanr="436" value="Povijesni"/>
+  </Zanr>
+
+</Videoteka>

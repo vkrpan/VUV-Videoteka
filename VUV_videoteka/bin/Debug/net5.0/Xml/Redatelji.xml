@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Redatelji>
+  <redatelj idRed="01" ime="Frank" prezime="Darabont" OIB="07262751928" />
+  <redatelj idRed="02" ime="Francis Ford" prezime="Coppola" OIB="38902176441" />
+  <redatelj idRed="03" ime="Christopher" prezime="Nolan" OIB="75781765879" />
+  <redatelj idRed="04" ime="Sidney" prezime="Lumet" OIB="49912174737" />
+  <redatelj idRed="05" ime="Steven" prezime="Spielberg" OIB="93286457210" />
+  <redatelj idRed="06" ime="Peter" prezime="Jackson" OIB="20790898651" />
+  <redatelj idRed="07" ime="Quentin" prezime="Tarantino" OIB="39799987485" />
+  <redatelj idRed="08" ime="Sergio" prezime="leone" OIB="47985898769" />
+  <redatelj idRed="09" ime="David" prezime="Fincher" OIB="73940148210" />
+  <redatelj idRed="10" ime="Robert" prezime="Zemeckis" OIB="07955143988" />
+  <redatelj idRed="11" ime="Irvin" prezime="Kershner" OIB="15910796326" />
+  <redatelj idRed="12" ime="Lana" prezime="Wachowski" OIB="24004560836" />
+  <redatelj idRed="13" ime="Lilly" prezime="Wachowski" OIB="33488280668" />
+  <redatelj idRed="14" ime="Martin" prezime="Scorsese" OIB="18906247996" />
+  <redatelj idRed="15" ime="Milos" prezime="Forman" OIB="08681710326" />
+  <redatelj idRed="16" ime="Jonathan" prezime="Demme" OIB="98914560691" />
+  <redatelj idRed="17" ime="Fernando" prezime=" Meirelles" OIB="19871729091" />
+  <redatelj idRed="18" ime="Katia" prezime="Lund" OIB="37050826553" />
+</Redatelji>

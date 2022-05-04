@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Operateri>
+  <operater idOp="11" ime="Filip" prezime="Kuba" OIB ="78688279057"/>
+  <operater idOp="98" ime="Karla" prezime="Lazic" OIB="52555163439"/>
+  <operater idOp="44" ime="Mirela" prezime="Holy" OIB="74943358472"/>
+  <operater idOp="82" ime="Mihael" prezime="Jaksic" OIB="97690776862"/>
+</Operateri>

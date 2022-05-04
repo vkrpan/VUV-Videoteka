@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Glumci>
+  <glumac idGl="01" ime="Tim" prezime="Robbins" OIB="07612123300" />
+  <glumac idGl="02" ime="Morgan" prezime="Freeman" OIB="92324406578" />
+  <glumac idGl="03" ime="Bob" prezime="Gunton" OIB="07100816511" />
+  <glumac idGl="04" ime="Marlon" prezime="Brando" OIB="79881260851" />
+  <glumac idGl="05" ime="Alfredo James" prezime="Pacino" OIB="74489629186" />
+  <glumac idGl="06" ime="James" prezime="Caan" OIB="93637635465" />
+  <glumac idGl="07" ime="Robert" prezime="Duvall" OIB="40465715792" />
+  <glumac idGl="08" ime="Robert" prezime="De Niro" OIB="48098614881" />
+  <glumac idGl="09" ime="Christian" prezime="Bale" OIB="28819830040" />
+  <glumac idGl="10" ime="Heath" prezime="Ledger" OIB="35544774414" />
+  <glumac idGl="11" ime="Aaron" prezime="Eckhart" OIB="46151107773" />
+  <glumac idGl="12" ime="Martin" prezime="Balsam" OIB="49045061540" />
+  <glumac idGl="13" ime="Henry" prezime="Fonda" OIB="53677006428" />
+  <glumac idGl="14" ime="Lee J." prezime="Cobb" OIB="14591356902" />
+  <glumac idGl="15" ime="Liam" prezime="Neeson" OIB="34282212361" />
+  <glumac idGl="16" ime="Ben" prezime="Kingsley" OIB="99696463034" />
+  <glumac idGl="17" ime="Ralph" prezime="Fiennes" OIB="26088052071" />
+  <glumac idGl="18" ime="Elijah" prezime="Wood" OIB="42256087886" />
+  <glumac idGl="19" ime="Viggo" prezime="Mortensen" OIB="88804032201" />
+  <glumac idGl="20" ime="Ian" prezime="McKellen" OIB="93831130200" />
+  <glumac idGl="21" ime="John" prezime="Travolta" OIB="49617329128" />
+  <glumac idGl="22" ime="Uma" prezime="Thurman" OIB="92827967926" />
+  <glumac idGl="23" ime="Samuel L." prezime="Jackson" OIB="62287362248" />
+  <glumac idGl="24" ime="Clint" prezime="Eastwood" OIB="87912535134" />
+  <glumac idGl="25" ime="Eli" prezime="Wallach" OIB="97839313899" />
+  <glumac idGl="26" ime="Leroy" prezime="Van Cleef" OIB="39168312059" />
+  <glumac idGl="27" ime="Orlando" prezime="Bloom" OIB="62599457352" />
+  <glumac idGl="28" ime="Brad" prezime="Pitt" OIB="21461757470" />
+  <glumac idGl="29" ime="Edward" prezime="Norton" OIB="57468208728" />
+  <glumac idGl="30" ime="Marvin Lee" prezime="Aday" OIB="95711546373" />
+  <glumac idGl="31" ime="Tom" prezime="Hanks" OIB="33361741734" />
+  <glumac idGl="32" ime="Robin" prezime="Wright" OIB="37886111588" />
+  <glumac idGl="33" ime="Gary" prezime="Sinise" OIB="97640500378" />
+  <glumac idGl="34" ime="Leonardo" prezime="DiCaprio" OIB="46718631544" />
+  <glumac idGl="35" ime="Joseph" prezime="Gordon-Levitt" OIB="18874403145" />
+  <glumac idGl="36" ime="Elliot" prezime="Page" OIB="18355259299" />
+  <glumac idGl="37" ime="Mark" prezime="Hamill" OIB="10785512625" />
+  <glumac idGl="38" ime="Harrison" prezime="Ford" OIB="30473679424" />
+  <glumac idGl="39" ime="Carrie" prezime="Fisher" OIB="69379654935" />
+  <glumac idGl="40" ime="Keanu" prezime="Reeves" OIB="91852166926" />
+  <glumac idGl="41" ime="Laureance" prezime="Fishburne" OIB="78550589905" />
+  <glumac idGl="42" ime="Carrie-Anne" prezime="Moss" OIB="53645251399" />
+  <glumac idGl="43" ime="Ray" prezime="Liotta" OIB="99322754264" />
+  <glumac idGl="44" ime="Joe" prezime="Pesci" OIB="52690188920" />
+  <glumac idGl="45" ime="Jack" prezime="Nicholson" OIB="27300343499" />
+  <glumac idGl="46" ime="Louise" prezime="Fletcher" OIB="47446836536" />
+  <glumac idGl="47" ime="Michael" prezime="Berryman" OIB="36608805455" />
+  <glumac idGl="48" ime="Kevin" prezime="Spacey" OIB="79546495568" />
+  <glumac idGl="49" ime="Jodie" prezime="Foster" OIB="91458454515" />
+  <glumac idGl="50" ime="Anthony" prezime="Hopkins" OIB="19951365741" />
+  <glumac idGl="51" ime="Lawrence" prezime="Bonney" OIB="60664079517" />
+  <glumac idGl="52" ime="Alexandre" prezime="Rodrigues" OIB="00520868867" />
+  <glumac idGl="53" ime="Leandro" prezime="Firmino" OIB="06726942883" />
+  <glumac idGl="54" ime="Matheus" prezime="Nachtergaele" OIB="07466470819" />
+</Glumci>

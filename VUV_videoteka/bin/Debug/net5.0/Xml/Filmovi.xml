@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Filmovi>
+  <film idFilm="06" ime="Schindlerova lista" godina="1993" trajanje="195" posuden="false" cijenaNajma="12,49" deleted="false">
+    <redatelj idRed="05" />
+    <glumac idGl="15" />
+    <glumac idGl="16" />
+    <glumac idGl="17" />
+    <zanr idZanr="255" />
+    <zanr idZanr="883" />
+    <zanr idZanr="436" />
+  </film>
+  <film idFilm="09" ime="Dobar, los, zao" godina="1966" trajanje="178" posuden="false" cijenaNajma="10" deleted="false">
+    <redatelj idRed="08" />
+    <glumac idGl="24" />
+    <glumac idGl="25" />
+    <glumac idGl="26" />
+    <zanr idZanr="162" />
+  </film>
+  <film idFilm="14" ime="Gospodar prstenova: Dvije kule" godina="2002" trajanje="179" posuden="false" cijenaNajma="18" deleted="false">
+    <redatelj idRed="06" />
+    <glumac idGl="18" />
+    <glumac idGl="20" />
+    <glumac idGl="20" />
+    <zanr idZanr="255" />
+    <zanr idZanr="225" />
+    <zanr idZanr="991" />
+  </film>
+  <film idFilm="15" ime="Zvjezdani Ratovi: Imperij Uzvraća Udarac" godina="1980" trajanje="124" posuden="false" cijenaNajma="20" deleted="false">
+    <redatelj idRed="11" />
+    <glumac idGl="37" />
+    <glumac idGl="38" />
+    <glumac idGl="39" />
+    <zanr idZanr="255" />
+    <zanr idZanr="225" />
+    <zanr idZanr="991" />
+    <zanr idZanr="710" />
+  </film>
+  <film idFilm="17" ime="Let iznad kukavicjeg gnijezda" godina="1975" trajanje="133" posuden="false" cijenaNajma="10" deleted="false">
+    <redatelj idRed="15" />
+    <glumac idGl="45" />
+    <glumac idGl="46" />
+    <glumac idGl="47" />
+    <zanr idZanr="255" />
+  </film>
+  <film idFilm="19" ime="Kad jaganjci utihnu" godina="1991" trajanje="118" posuden="false" cijenaNajma="10" deleted="false">
+    <redatelj idRed="09" />
+    <glumac idGl="49" />
+    <glumac idGl="50" />
+    <glumac idGl="51" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+    <zanr idZanr="655" />
+  </film>
+  <film idFilm="20" ime="Bozji grad" godina="2002" trajanje="130" posuden="false" cijenaNajma="14" deleted="false">
+    <redatelj idRed="17" />
+    <redatelj idRed="18" />
+    <glumac idGl="52" />
+    <glumac idGl="53" />
+    <glumac idGl="54" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+  </film>
+  <film idFilm="16" ime="Matrix" godina="1999" trajanje="136" posuden="false" cijenaNajma="18" deleted="false">
+    <redatelj idRed="12" />
+    <redatelj idRed="13" />
+    <glumac idGl="40" />
+    <glumac idGl="41" />
+    <glumac idGl="42" />
+    <zanr idZanr="225" />
+    <zanr idZanr="420" />
+  </film>
+  <film idFilm="11" ime="Klub boraca" godina="1999" trajanje="139" posuden="false" cijenaNajma="20" deleted="false">
+    <redatelj idRed="09" />
+    <glumac idGl="28" />
+    <glumac idGl="29" />
+    <glumac idGl="30" />
+    <zanr idZanr="255" />
+  </film>
+  <film idFilm="05" ime="12 gnjevnih ljudi" godina="1957" trajanje="96" posuden="false" cijenaNajma="9,99" deleted="false">
+    <redatelj idRed="04" />
+    <glumac idGl="12" />
+    <glumac idGl="13" />
+    <glumac idGl="14" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+  </film>
+  <film idFilm="01" ime="Iskupljenje u Shawshanku" godina="1994" trajanje="144" posuden="false" cijenaNajma="14" deleted="false">
+    <redatelj idRed="01" />
+    <glumac idGl="01" />
+    <glumac idGl="02" />
+    <glumac idGl="03" />
+    <zanr idZanr="255" />
+  </film>
+  <film idFilm="08" ime="Pulp fiction" godina="1994" trajanje="153" posuden="false" cijenaNajma="15" deleted="false">
+    <redatelj idRed="07" />
+    <glumac idGl="21" />
+    <glumac idGl="22" />
+    <glumac idGl="23" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+  </film>
+  <film idFilm="12" ime="Forrest Gump" godina="1994" trajanje="142" posuden="false" cijenaNajma="18" deleted="false">
+    <redatelj idRed="10" />
+    <glumac idGl="31" />
+    <glumac idGl="32" />
+    <glumac idGl="33" />
+    <zanr idZanr="255" />
+    <zanr idZanr="874" />
+  </film>
+  <film idFilm="10" ime="Gospodar prstenova: Prstenova druzuina" godina="2001" trajanje="178" posuden="true" cijenaNajma="18" deleted="false">
+    <redatelj idRed="06" />
+    <glumac idGl="18" />
+    <glumac idGl="20" />
+    <glumac idGl="27" />
+    <zanr idZanr="255" />
+    <zanr idZanr="225" />
+    <zanr idZanr="991" />
+  </film>
+  <film idFilm="02" ime="Kum" godina="175" trajanje="1972" posuden="true" cijenaNajma="12,99" deleted="false">
+    <redatelj idRed="02" />
+    <glumac idGl="04" />
+    <glumac idGl="05" />
+    <glumac idGl="06" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+  </film>
+  <film idFilm="435" ime="testt" godina="34" trajanje="2434" posuden="false" cijenaNajma="3404" deleted="true">
+    <redatelj idRed="10" />
+    <glumac idGl="43" />
+    <zanr idZanr="655" />
+  </film>
+  <film idFilm="03" ime="Kum 2" godina="1974" trajanje="202" posuden="true" cijenaNajma="14,99" deleted="false">
+    <redatelj idRed="02" />
+    <glumac idGl="05" />
+    <glumac idGl="07" />
+    <glumac idGl="08" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+  </film>
+  <film idFilm="07" ime="Gospodar prstenova: Povratak kralja" godina="2003" trajanje="201" posuden="false" cijenaNajma="16" deleted="false">
+    <redatelj idRed="06" />
+    <glumac idGl="18" />
+    <glumac idGl="19" />
+    <glumac idGl="20" />
+    <zanr idZanr="255" />
+    <zanr idZanr="225" />
+    <zanr idZanr="991" />
+  </film>
+  <film idFilm="18" ime="Se7en" godina="1995" trajanje="127" posuden="false" cijenaNajma="16" deleted="false">
+    <redatelj idRed="09" />
+    <glumac idGl="02" />
+    <glumac idGl="28" />
+    <glumac idGl="48" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+  </film>
+  <film idFilm="13" ime="Pocetak" godina="2010" trajanje="148" posuden="true" cijenaNajma="16" deleted="false">
+    <redatelj idRed="03" />
+    <glumac idGl="34" />
+    <glumac idGl="35" />
+    <glumac idGl="36" />
+    <zanr idZanr="225" />
+    <zanr idZanr="991" />
+    <zanr idZanr="420" />
+  </film>
+  <film idFilm="04" ime="Vitez tame" godina="2008" trajanje="152" posuden="false" cijenaNajma="12,5" deleted="false">
+    <redatelj idRed="03" />
+    <glumac idGl="09" />
+    <glumac idGl="10" />
+    <glumac idGl="11" />
+    <zanr idZanr="255" />
+    <zanr idZanr="410" />
+    <zanr idZanr="225" />
+  </film>
+</Filmovi>
